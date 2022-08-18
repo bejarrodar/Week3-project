@@ -1,0 +1,31 @@
+Data Project: Build a simple Data Dashboard
+
+1) Choose a dataset
+	a) The dataset should have at least 1000 rows, and at least 5 columns
+	b) The dataset should have both numerical and categorical data
+	c) If you cannot find a dataset you like, one will be provided for you
+
+2) Clean the Data
+	a) Import your chosen dataset into a Jupyter Notebook
+	b) Clean out any missing data
+	c) Replace or remove any incorrect data
+	d) Separate data into any number of appropriate data frames (groupbys, logical separations, categorical separations, ect)
+	
+3)  Examine the Data
+	a) Find the maximum, minimum, and average of all numerical data 
+b) Group the data on categorical data and extract aggregate maximum, minimum and average values
+c) Add calculated columns to your dataframes to demonstrate important relationships between other columns.
+d) Merge any related data onto your main dataframes
+e) Display any comparative data in a display dataframe
+
+4) Interpret the Data
+What does all of this mean?
+Express in human language what these values represent
+
+5) Extensions:
+Plot the data!
+Using Pandas built in plotting tool, or use MatPlotLib or Seaborn
+Write the clean data to a file
+	    i)  This file can be csv or json
+Write the file to an SQL DB of your choice    
+Normalize the data before writing it.  
