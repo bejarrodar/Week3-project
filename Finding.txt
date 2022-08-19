@@ -15,6 +15,9 @@ Data columns (total 9 columns):
 dtypes: datetime64[ns](1), float64(6), int64(1), object(1)
 memory usage: 884.7+ KB
 
+Time period:
+Start:  08-07-2017
+End:    08-04-2022
 
 Smallest Numbers Rounded Down: 
 
